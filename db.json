@@ -23,14 +23,14 @@
   ],
   "category": [
     { "id": 0, "name": "Site", "parent": 0 },
-    { "id": 1, "name": "Général", "parent": 0 },
+    { "id": 1, "name": "Général", "parent": 0 }
   ],
   "subcategories": [
     { "id": 0, "name": "Annonces", "parent": 0, "description": "Cette section regroupe toutes les annonces importantes du forum." },
     { "id": 1, "name": "Suggestions", "parent": 0, "description": "Vous avez une suggestion pour le site ? Vous pouvez la proposer ici." },
     { "id": 1, "name": "Signaler un bug", "parent": 0, "description": "Vous avez rencontré un problème ? Signalez-le ici." },
     { "id": 2, "name": "Aide aux exercices", "parent": 1, "description": "Vous avez des questions par rapport à un exercice ? Vous pouvez obtenir de l'aide auprès de nos membres ici." },
-    { "id": 0, "name": "Discussions générales", "parent": 1, "description": "Pour discuter sujet sérieux." },
-    { "id": 0, "name": "Forum libre", "parent": 1, "description": "Pour discuter de tout et de rien." }
+    { "id": 3, "name": "Discussions générales", "parent": 1, "description": "Pour discuter sujet sérieux." },
+    { "id": 4, "name": "Forum libre", "parent": 1, "description": "Pour discuter de tout et de rien." }
   ]
 }
