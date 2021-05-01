@@ -21,7 +21,7 @@
     { "id": 2, "username": "Temsoka" },
     { "id": 3, "username": "Tintintamarre" }
   ],
-  "category": [
+  "categories": [
     { "id": 0, "name": "Site", "parent": 0 },
     { "id": 1, "name": "Général", "parent": 0 }
   ],
