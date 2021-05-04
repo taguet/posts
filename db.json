@@ -29,7 +29,7 @@
     { "id": 0, "name": "Annonces", "parent": 0, "description": "Cette section regroupe toutes les annonces importantes du forum." },
     { "id": 1, "name": "Suggestions", "parent": 0, "description": "Vous avez une suggestion pour le site ? Vous pouvez la proposer ici." },
     { "id": 2, "name": "Signaler un bug", "parent": 0, "description": "Vous avez rencontré un problème ? Signalez-le ici." },
-    { "id": 3, "name": "Aide aux exercices", "parent": 1, "description": "Vous avez des questions par rapport à un exercice ? Vous pouvez obtenir de l'aide auprès de nos membres ici." },
+    { "id": 3, "name": "Entraide", "parent": 1, "description": "Vous avez des questions par rapport à un exercice ? Vous pouvez obtenir de l'aide auprès de nos membres ici." },
     { "id": 4, "name": "Discussions générales", "parent": 1, "description": "Pour discuter de sujet sérieux." },
     { "id": 5, "name": "Forum libre", "parent": 1, "description": "Pour discuter de tout et de rien." }
   ]
