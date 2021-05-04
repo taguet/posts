@@ -13,9 +13,9 @@
       "content": "ah ok"
     }
   ],
- "threads": {
-    "id": 1, "categoryId": 4, "title": "Alors comme ça on me traite de FAIBLE ?", "first": 1, "parent":5
-  },
+ "threads": [
+   { "id": 1, "categoryId": 4, "title": "Alors comme ça on me traite de FAIBLE ?", "first": 1, "parent":5 }
+  ],
   "users": [
     { "id": 1, "username": "Issoucisse" },
     { "id": 2, "username": "Temsoka" },
