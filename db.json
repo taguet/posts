@@ -14,7 +14,7 @@
     }
   ],
  "threads": {
-    "id": 1, "categoryId": 4, "title": "Alors comme ça on me traite de FAIBLE ?", "first": 1
+    "id": 1, "categoryId": 4, "title": "Alors comme ça on me traite de FAIBLE ?", "first": 1, parent:5
   },
   "users": [
     { "id": 1, "username": "Issoucisse" },
@@ -26,11 +26,11 @@
     { "id": 2, "name": "Général", "parent": 0 }
   ],
   "subcategories": [
-    { "id": 1, "name": "Annonces", "parent": 0, "description": "Cette section regroupe toutes les annonces importantes du forum." },
-    { "id": 2, "name": "Suggestions", "parent": 0, "description": "Vous avez une suggestion pour le site ? Vous pouvez la proposer ici." },
-    { "id": 3, "name": "Signaler un bug", "parent": 0, "description": "Vous avez rencontré un problème ? Signalez-le ici." },
-    { "id": 4, "name": "Entraide", "parent": 1, "description": "Vous avez des questions par rapport à un exercice ? Vous pouvez obtenir de l'aide auprès de nos membres ici." },
-    { "id": 5, "name": "Discussions générales", "parent": 1, "description": "Pour discuter de sujet sérieux." },
-    { "id": 6, "name": "Forum libre", "parent": 1, "description": "Pour discuter de tout et de rien." }
+    { "id": 1, "name": "Annonces", "parent": 1, "description": "Cette section regroupe toutes les annonces importantes du forum." },
+    { "id": 2, "name": "Suggestions", "parent": 1, "description": "Vous avez une suggestion pour le site ? Vous pouvez la proposer ici." },
+    { "id": 3, "name": "Signaler un bug", "parent": 1, "description": "Vous avez rencontré un problème ? Signalez-le ici." },
+    { "id": 4, "name": "Entraide", "parent": 2, "description": "Vous avez des questions par rapport à un exercice ? Vous pouvez obtenir de l'aide auprès de nos membres ici." },
+    { "id": 5, "name": "Discussions générales", "parent": 2, "description": "Pour discuter de sujet sérieux." },
+    { "id": 6, "name": "Forum libre", "parent": 2, "description": "Pour discuter de tout et de rien." }
   ]
 }
